@@ -9,5 +9,11 @@ public class SalesUser02day02 {
 	{
 		System.out.println("This code written by user02");
 	}
+	
+	@Test
+	public void user02method02()
+	{
+		System.out.println("This code written by user02 in branch and it should be in Main");
+	}
 
 }
